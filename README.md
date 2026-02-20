@@ -1,15 +1,19 @@
 # midi-demo-data
 🎹 Demo MIDI data for Lightingale projects.
 
+> **Notice**
+> 
+> Please do not train models on the hard work of artists without properly compensating them.
+
 The `octavia` collection is curated for the [Octavia](https://kb.ltgc.cc/octavia/), the MIDI state-tracking, visualizing and routing. [Play with the Octavia demos here](https://gh.ltgc.cc/octavia/test/)!
 
-## Files by...
+## Categories
 ### Artists
-- [David J. Reading](artist/David J. Reading) ([LinkedIn](https://uk.linkedin.com/in/davidjreading))
+- [David J. Reading](artist/David%20J.%20Reading) ([LinkedIn](https://uk.linkedin.com/in/davidjreading))
 - [ElectroKaplosion](artist/ElectroKaplosion) ([YouTube](https://youtube.com/@ElectroKaplosion), [Bandcamp](https://electrokaplosion.bandcamp.com/music))
 - [JayB](artist/JayB) ([website](https://jaybmusic.net), [YouTube](https://youtube.com/@JayBmusic), [Instagram](https://www.instagram.com/jaybmusicnet/))
 - Poodle Straight
-- [Sam Sketty](artist/Sam Sketty) ([LinkedIn](https://uk.linkedin.com/in/sam-sketty-228797127))
+- [Sam Sketty](artist/Sam%20Sketty) ([LinkedIn](https://uk.linkedin.com/in/sam-sketty-228797127))
 - TôBach
 
 ### Vendor
