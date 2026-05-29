@@ -32,10 +32,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      - name: "Build deployable static pages artifact"
-        run: "./shx ghGenerate"
+      - name: "Build deployable static pages artifact (balanced)"
+        if: ${{ ! endsWith(github.repository, '-stable') }}
+        run: "bash sh/ghGenerate.sh"
+      - name: "Build deployable static pages artifact (long-term)"
+        if: ${{ endsWith(github.repository, '-stable') }}
       - name: "Rewrite release"
         uses: ncipollo/release-action@v1
         env:
