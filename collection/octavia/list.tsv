@@ -4,9 +4,9 @@ id	text	file	artist	title	standard	audio	renderer	extra
 2	c	Stephen Kay - Around the World	Stephen Kay	Around the World	X5D	X5DR	DearHoney	
 3	d	KORG - 2000 Fever	堀越昭宏	2000 Fever	NS5R	NS5R	DearHoney	
 4	e	KORG - MissionMan	John Lehmkuhl	MissionMan	NS5R	NS5R	DearHoney	
-5	f	Sam Sketty - Ambient	Sam Sketty	Ambient	XG	MU80	NiceChord	
-6	g	David Reading - Galactic Invasion	David J. Reading	Galactic Invasion	XG	S-YXG50 WDM	Lumière Élevé	
-7	h	Sam Sketty - Low Down	Sam Sketty	Low Down	XG	MU80	DistWave	
+5	f	Ambient	Sam Sketty	Ambient	XG	MU80	NiceChord	
+6	g	Galactic Invasion	David J. Reading	Galactic Invasion	XG	S-YXG50 WDM	Lumière Élevé	
+7	h	Low Down	Sam Sketty	Low Down	XG	MU80	DistWave	
 8	i	StarGame	John Campbell	Star Games	GS	SC-88 Pro	DearHoney	Made for SC-55
 9	j	onestop	David Yackley	One Stop	GM	FluidSynth, ColomboGMGS2	Lumière Élevé	
 10	k	21Ochstr	大田川恭子	Orchestra	GS	SC-88 Pro	DearHoney	
@@ -32,7 +32,7 @@ id	text	file	artist	title	standard	audio	renderer	extra
 30	4	01JAZZ	Idecs Music Software	The Secret Place	GS	SC-8850	Romantique Tp	
 31	5	05ORCHE	久光浩, 本郷久恵	Space Flight	GS	SC-8850	Romantique Tp	
 32	6	R-love	森尾隆	Is It Really Love?	XG	MU2000	KR. Palto47	
-33	7	JayB - Corgi (Full Version)	JayB	Corgi	X5D, NS5R	X5D, NS5R	JayB	
+33	7	Corgi (Full Version)	JayB	Corgi	X5D, NS5R	X5D, NS5R	JayB	
 34	8	OutOfTheMuse	Yamaha	Out of the Muse	XG	MU80	kora kuma	
 35	9	MU100DEMO	Yamaha	It's an AmaZing MU World!!	XG	MU100	DearHoney	
 36	α	TheMusithm	Yamaha	The Musithm	XG	MU50	Pixel Refresh	
@@ -44,8 +44,8 @@ id	text	file	artist	title	standard	audio	renderer	extra
 42	η	RnB	森尾隆	Rhythm&Blues	XG, PLG-AN	MU2000, PLG150-AN	MasterJace	
 43	θ	MIDI Massacre	TôBach	MIDI Massacre	GS	Microsoft GS Wavetable	TôBach	
 44	ι	DREAMOFL	JayB	Dream of Light	XG	QY100	JayB	The original song is unfinished
-45	κ	Sam Sketty - Smokin	Sam Sketty	Smokin'	XG	MU80	DarkWolf	
-46	λ	Sam Sketty - Cop Out	Sam Sketty	Cop Out	XG	MU80	DistWave	
+45	κ	Smokin'	Sam Sketty	Smokin'	XG	MU80	DarkWolf	
+46	λ	Cop Out	Sam Sketty	Cop Out	XG	MU80	DistWave	
 47	μ	13Wah_G	Music Brains	Wah Guitar Demo	GS	SC-88 Pro	DearHoney	
 48	ν	QY70D_3	Yamaha	QY70 Demo No. 3	XG	QY70	JayB	
 49	ξ	QY100D_2	Yamaha	R&B/Pop	XG	QY100	JayB	Official QY100 demo
